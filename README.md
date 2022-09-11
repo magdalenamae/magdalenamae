@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @magdalenamae
-- 🌱 I’m currently learning softwear engineering 
 - 📫 How to reach me magdalenadarcy3@gmail.com
 
 <!---
