@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Magdalena Robinson a Junior Developer based in Melbourne.
 - 📫 How to reach me magda.m.robinson@gmail.com
-- 🖥️ Portfolio magdalenarobinson.info
+- 🖥️ Portfolio <linkl>magdalenarobinson.info<link>
 
 
 <!---
