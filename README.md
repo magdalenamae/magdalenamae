@@ -1,6 +1,6 @@
 # **👋 Hi, I’m Magdalena**
 
-I’m a Software Engineer with ~3 years of experience, growing from junior to senior while working across projects that touch many parts of a business. I focus on building reliable, scalable software and enjoy turning unclear requirements into practical solutions.
+I’m a Software Engineer with ~3 years of experience, growing from junior to fully fledged engineer while working across projects that touch many parts of a business. I focus on building reliable, scalable software and enjoy turning unclear requirements into practical solutions.
 
 **🚀 What I work with**
 
@@ -24,5 +24,5 @@ I’m a Software Engineer with ~3 years of experience, growing from junior to se
 **📫 How to reach me**
 
 - [LinkedIn](https://www.linkedin.com/in/magdalena-robinson/)
-- [Email](magda.m.robinson@gmail.com)
+- Email: magda.m.robinson@gmail.com 
   
