@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Magdalena Robinson a Software Developer based in Brisbane.
 - 📫 How to reach me magda.m.robinson@gmail.com
-- 🖥️ [Portfolio](magdalenarobinson.info)
 
 
 <!---
