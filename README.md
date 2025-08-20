@@ -12,7 +12,7 @@ I’m a Software Engineer with ~3 years of experience, growing from junior to se
 **💡 What makes me different**
 
 - I started my career running my own business and managing high-end fine dining restaurants in Melbourne. That background gave me strong skills in people management, conflict resolution, and thriving under pressure — strengths I now bring into engineering.
-- I’ve progressed quickly from junior → senior engineer, trusted as the only remote team member in my role, and given the opportunity to mentor others while helping manage external development vendors to reduce project costs.
+- I’ve progressed quickly from junior → a fully fledged engineer, trusted as the only remote team member in my role, and given the opportunity to mentor others while helping manage external development vendors to reduce project costs.
 - Outside of coding, I’m passionate about health and fitness (currently training toward a bodybuilding competition 🏋️‍♀️), exploring Queensland’s coast and bushwalks 🌿, and working on my own side projects, including developing games.
 
 **🔭 What I’m up to**
